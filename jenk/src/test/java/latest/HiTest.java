@@ -7,6 +7,7 @@ public class HiTest {
 	public void hi()
 	{
 		System.out.println("hi guys");
+		hello();
 	}
 	public void hello()
 	{
