@@ -17,4 +17,8 @@ public class HiTest {
 	{
 		System.out.println("bye");
 	}
+	public void sample()
+	{
+		System.out.println("bye bye");
+	}
 }
