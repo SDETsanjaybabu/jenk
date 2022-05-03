@@ -13,4 +13,8 @@ public class HiTest {
 	{
 		System.out.println("hello guys");
 	}
+	public void demo()
+	{
+		System.out.println("bye");
+	}
 }
